@@ -132,3 +132,4 @@ Possible improvements include:
 ## 📊 Dashboard Preview
 
 ![Sales and Profit Dashboard](dashboard.png)
+![Sales and Profit Dashboard](dashboard1.png)
