@@ -128,3 +128,7 @@ Possible improvements include:
 * Creating monthly sales and profit trend charts
 * Adding profit margin analysis
 * Connecting the dataset to Power BI for advanced visualization
+
+## 📊 Dashboard Preview
+
+![Sales and Profit Dashboard](dashboard.png)
